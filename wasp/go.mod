@@ -161,7 +161,7 @@ require (
 replace github.com/smartcontractkit/chainlink-testing-framework/lib => ../lib
 
 require (
-	github.com/coder/websocket v1.8.12
+	github.com/coder/websocket v1.8.13
 	github.com/grafana/pyroscope-go v1.1.2
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v0.0.5
