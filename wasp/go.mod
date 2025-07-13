@@ -17,9 +17,9 @@ require (
 	github.com/stretchr/testify v1.10.0
 	go.uber.org/ratelimit v0.3.1
 	google.golang.org/grpc v1.67.1 // indirect
-	k8s.io/api v0.31.2
+	k8s.io/api v0.33.2
 	k8s.io/apimachinery v0.33.2
-	k8s.io/client-go v0.31.2
+	k8s.io/client-go v0.33.2
 )
 
 require (
@@ -64,7 +64,7 @@ require (
 	github.com/gogo/status v1.1.1 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/golang/snappy v0.0.5-0.20220116011046-fa5810519dcb // indirect
-	github.com/google/btree v1.1.2 // indirect
+	github.com/google/btree v1.1.3 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/gosimple/slug v1.13.1 // indirect
@@ -228,13 +228,11 @@ require (
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/go-redis/redis/v8 v8.11.5 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
-	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/gnostic-models v0.6.9 // indirect
 	github.com/google/go-github/v41 v41.0.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
-	github.com/google/pprof v0.0.0-20241029153458-d1b30febd7db // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
-	github.com/gorilla/websocket v1.5.0 // indirect
+	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 // indirect
 	github.com/grafana/gomemcache v0.0.0-20231023152154-6947259a0586 // indirect
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
