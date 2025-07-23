@@ -166,7 +166,7 @@ require (
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v1.0.8
 	github.com/smartcontractkit/chainlink-testing-framework/lib v1.50.18
-	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.50.0
+	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.51.0
 )
 
 require (
