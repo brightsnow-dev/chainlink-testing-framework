@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/K-Phoen/grabana v0.22.2
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/go-resty/resty/v2 v2.15.3
 	github.com/google/uuid v1.6.0
 	github.com/grafana/dskit v0.0.0-20231120170505-765e343eda4f
