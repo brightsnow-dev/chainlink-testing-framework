@@ -9,13 +9,13 @@ require (
 	github.com/ethereum/go-ethereum v1.16.1
 	github.com/holiman/uint256 v1.3.2
 	github.com/montanaflynn/stats v0.7.1
-	github.com/pelletier/go-toml/v2 v2.2.3
+	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/pkg/errors v0.9.1
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.10.0
-	github.com/urfave/cli/v2 v2.27.5
+	github.com/urfave/cli/v2 v2.27.7
 	go.uber.org/ratelimit v0.3.1
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.16.0
 )
 
 require (
@@ -24,7 +24,7 @@ require (
 	github.com/benbjohnson/clock v1.3.5 // indirect
 	github.com/bits-and-blooms/bitset v1.20.0 // indirect
 	github.com/consensys/gnark-crypto v0.18.0 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
 	github.com/crate-crypto/go-eth-kzg v1.3.0 // indirect
 	github.com/crate-crypto/go-ipa v0.0.0-20240724233137-53bbb0ceb27a // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
