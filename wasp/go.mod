@@ -162,7 +162,7 @@ replace github.com/smartcontractkit/chainlink-testing-framework/lib => ../lib
 
 require (
 	github.com/coder/websocket v1.8.13
-	github.com/grafana/pyroscope-go v1.2.3
+	github.com/grafana/pyroscope-go v1.2.4
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v1.0.8
 	github.com/smartcontractkit/chainlink-testing-framework/lib v1.50.18
