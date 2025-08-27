@@ -162,7 +162,7 @@ replace github.com/smartcontractkit/chainlink-testing-framework/lib => ../lib
 
 require (
 	github.com/coder/websocket v1.8.13
-	github.com/grafana/pyroscope-go v1.2.3
+	github.com/grafana/pyroscope-go v1.2.7
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v1.0.8
 	github.com/smartcontractkit/chainlink-testing-framework/lib v1.50.18
@@ -234,7 +234,7 @@ require (
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/gorilla/websocket v1.5.4-0.20250319132907-e064f32e3674 // indirect
 	github.com/grafana/gomemcache v0.0.0-20231023152154-6947259a0586 // indirect
-	github.com/grafana/pyroscope-go/godeltaprof v0.1.8 // indirect
+	github.com/grafana/pyroscope-go/godeltaprof v0.1.9 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/huandu/xstrings v1.3.3 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
